@@ -1,0 +1,9 @@
+body{
+    background-color: brown;
+    color:aliceblue
+    
+}
+img:hover {
+    content: URL(gatoterror.jpg);
+
+}
